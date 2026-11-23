@@ -6,8 +6,8 @@ export const site = {
   status: "Open to software engineering opportunities",
   email: "karthiktm168@gmail.com",
   phone: "+353 894175038",
-  linkedin: "https://www.linkedin.com/in/karthiktm",
-  linkedinHandle: "/in/karthiktm",
+  linkedin: "https://www.linkedin.com/in/karthik-thyloor-mahesh-840421435/",
+  linkedinHandle: "/in/karthik-thyloor-mahesh",
   portrait: "/image.png",
   summary:
     "Python Full-Stack Developer with 2 years of experience building web applications and managing AWS deployments at Vitra Facade Services. Developed frontend-backend integrations, REST APIs, and database connectivity, alongside Docker and Kubernetes cloud-native projects. Progressed from Python Developer Intern to full-time developer while supporting applications used by active enterprise users. Holds an MSc in Software Design with Cloud Native Computing and AWS Certified Solutions Architect – Associate certification.",

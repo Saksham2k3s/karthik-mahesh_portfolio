@@ -7,7 +7,7 @@ Python Full-Stack Developer & Cloud-Native Engineer portfolio built with React, 
 - **Role:** Python Full-Stack Developer | Cloud-Native & AWS
 - **Location:** Athlone, Ireland
 - **Contact:** karthiktm168@gmail.com | +353 894175038
-- **Profiles:** [LinkedIn](https://www.linkedin.com/in/karthiktm)
+- **Profiles:** [LinkedIn](https://www.linkedin.com/in/karthik-thyloor-mahesh-840421435/)
 
 ## Verified Sections
 - **Hero:** Split-screen image-led portrait layout, role, headline metrics (2+ years, Python & AWS, AWS SAA-C03), and direct contact actions.
