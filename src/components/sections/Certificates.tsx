@@ -15,6 +15,7 @@ const Certificates = () => (
         <Reveal key={cert.id} delay={i * 0.05}>
           <article className="glass-panel cert-panel">
             <h3>{cert.title}</h3>
+            <p className="gold">{cert.issuer} · {cert.year}</p>
             <p>{cert.description}</p>
             <a
               href={site.linkedin}
