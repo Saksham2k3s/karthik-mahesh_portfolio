@@ -6,7 +6,7 @@ const Experience = () => (
     <Reveal className="band__head">
       <span className="band__index">01</span>
       <h2>Experience</h2>
-      <p>Full-stack web application delivery, AWS cloud infrastructure, and operational management.</p>
+      <p>Where consistency, accuracy, and calm execution mattered most.</p>
     </Reveal>
 
     <div className="band__stack">

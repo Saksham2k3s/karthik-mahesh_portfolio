@@ -6,7 +6,7 @@ const Skills = () => (
     <Reveal className="band__head">
       <span className="band__index">03</span>
       <h2>Skills</h2>
-      <p>Core programming languages, AWS serverless platforms, DevOps pipelines, and observability.</p>
+      <p>Capabilities grouped by how they show up in real work.</p>
     </Reveal>
 
     <div className="bento">

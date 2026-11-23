@@ -6,7 +6,7 @@ const Education = () => (
     <Reveal className="band__head">
       <span className="band__index">04</span>
       <h2>Education</h2>
-      <p>Advanced software design, cloud-native computing, and engineering fundamentals.</p>
+      <p>Academic training behind the analytical approach.</p>
     </Reveal>
 
     <div className="duo-grid">

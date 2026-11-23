@@ -6,7 +6,7 @@ const Projects = () => (
     <Reveal className="band__head">
       <span className="band__index">02</span>
       <h2>Projects</h2>
-      <p>Cloud-native architectures, distributed microservices, and serverless AI pipelines.</p>
+      <p>Research and analysis turned into decisions stakeholders could act on.</p>
     </Reveal>
 
     <div className="band__stack">

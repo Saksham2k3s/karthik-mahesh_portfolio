@@ -7,7 +7,7 @@ const Certificates = () => (
     <Reveal className="band__head">
       <span className="band__index">05</span>
       <h2>Certificates</h2>
-      <p>Industry-recognized AWS certifications and hands-on cloud credentials.</p>
+      <p>Credentials that back up continuous learning.</p>
     </Reveal>
 
     <div className="cert-grid">
@@ -15,16 +15,15 @@ const Certificates = () => (
         <Reveal key={cert.id} delay={i * 0.05}>
           <article className="glass-panel cert-panel">
             <h3>{cert.title}</h3>
-            <p className="gold">{cert.issuer} · {cert.year}</p>
             <p>{cert.description}</p>
             <a
               href={site.linkedin}
               target="_blank"
               rel="noopener noreferrer"
               className="text-link"
-              aria-label={`Verify ${cert.title}`}
+              aria-label={`View ${cert.title}`}
             >
-              Verify credential
+              View certificate
               <ExternalLink size={15} />
             </a>
           </article>

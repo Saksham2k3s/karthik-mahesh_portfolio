@@ -1,19 +1,19 @@
 export const site = {
   name: "Karthik Thyloor Mahesh",
   initials: "KM",
-  title: "Python Full-Stack Developer | Cloud-Native & AWS",
+  title: "Python Full-Stack Developer",
   location: "Athlone, Ireland",
-  status: "Open to software engineering opportunities",
+  status: "Open to opportunities",
   email: "karthiktm168@gmail.com",
   phone: "+353 894175038",
   linkedin: "https://www.linkedin.com/in/karthik-thyloor-mahesh-840421435/",
   linkedinHandle: "/in/karthik-thyloor-mahesh",
   portrait: "/image.png",
   summary:
-    "Python Full-Stack Developer with 2 years of experience building web applications and managing AWS deployments at Vitra Facade Services. Developed frontend-backend integrations, REST APIs, and database connectivity, alongside Docker and Kubernetes cloud-native projects. Progressed from Python Developer Intern to full-time developer while supporting applications used by active enterprise users. Holds an MSc in Software Design with Cloud Native Computing and AWS Certified Solutions Architect – Associate certification.",
+    "Python Full-Stack Developer with 2 years of experience building web applications, REST APIs, and managing AWS deployments. Holds an MSc in Software Design with Cloud Native Computing and AWS Certified Solutions Architect – Associate certification.",
   highlights: [
     { label: "Experience", value: "2+ years" },
-    { label: "Focus", value: "Python & Cloud" },
+    { label: "Focus", value: "Python & AWS" },
     { label: "Credentials", value: "AWS SAA-C03" },
   ],
 };
@@ -119,7 +119,7 @@ export const skillCategories = [
     ],
   },
   {
-    title: "AWS & Serverless",
+    title: "AWS & Cloud-Native",
     skills: [
       "AWS EC2",
       "AWS S3",
@@ -128,37 +128,23 @@ export const skillCategories = [
       "API Gateway",
       "CloudWatch",
       "Serverless Architectures",
-    ],
-  },
-  {
-    title: "DevOps & Containers",
-    skills: [
       "Docker",
       "Kubernetes",
       "Knative",
-      "Git",
-      "GitHub",
-      "CI/CD Fundamentals",
-      "Infrastructure Automation",
     ],
   },
   {
-    title: "Databases & Observability",
+    title: "Databases, DevOps & Tools",
     skills: [
       "MySQL",
       "MongoDB",
       "PostgreSQL",
       "Prometheus",
       "Grafana",
-    ],
-  },
-  {
-    title: "Systems & Tools",
-    skills: [
+      "Git / GitHub",
+      "CI/CD Fundamentals",
       "Linux (Ubuntu, Amazon Linux)",
-      "Networking Fundamentals",
       "Postman",
-      "Application Troubleshooting",
     ],
   },
 ];
@@ -182,22 +168,21 @@ export const certificates = [
   {
     id: "cert-1",
     title: "AWS Certified Solutions Architect - Associate (SAA-C03)",
-    description: "Comprehensive validation covering resilient, high-performing, secure, and cost-optimized AWS architectures.",
-    issuer: "AWS",
-    year: "2026",
+    description: "Comprehensive validation covering resilient, high-performing, secure, and cost-optimized AWS architectures (2026).",
   },
   {
     id: "cert-2",
     title: "AWS Certified Cloud Practitioner",
-    description: "Foundational cloud fluency, AWS core services, cloud security, architecture, pricing, and support models.",
-    issuer: "AWS",
-    year: "2025",
+    description: "Foundational cloud fluency, AWS core services, cloud security, architecture, pricing, and support models (2025).",
   },
   {
     id: "cert-3",
     title: "Cloud Fundamentals - Hands-on Labs",
     description: "Practical hands-on lab deployments across EC2 compute, S3 storage, IAM security, VPC networking, and Lambda.",
-    issuer: "AWS",
-    year: "Hands-on Labs",
+  },
+  {
+    id: "cert-4",
+    title: "Cloud-Native Infrastructure & DevOps",
+    description: "Hands-on implementation of Docker containers, Kubernetes orchestration, Knative serverless, and CI/CD automation.",
   },
 ];
