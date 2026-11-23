@@ -1,0 +1,23 @@
+Portfolio content & structure (living reference)
+
+SITE CONFIG (`src/config/site.ts`)
+- Update name, title, location, contact links, summary, and highlights.
+- Replace `portrait` with your photo at `public/image.png`.
+
+DESIGN DIRECTION
+- Cinematic image-led split layout (not editorial paper style).
+- Desktop: fixed left portrait column; content scrolls on the right.
+- Mobile: full-bleed portrait hero, dark content bands below.
+- Aboreto + Outfit typography, charcoal + gold palette.
+
+CORE SECTIONS
+- Home — hero with profile image, summary, CTAs, stats.
+- Experience — timeline cards.
+- Projects — case study panel.
+- Skills — categorized tags.
+- Education — degree cards.
+- Certificates — credential grid.
+- Contact — split panel with portrait visual.
+
+DEPLOYMENT
+- Netlify: `npm run build`, publish `dist`.
